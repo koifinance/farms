@@ -1,0 +1,57 @@
+{
+  "0xe5095a9d6fe9573722706062eaafae422134cd33": {
+    "pair": "0xDFAaB828f5F515E104BaaBa4d8D554DA9096f0e4",
+    "id": "0xe5095a9d6fe9573722706062eaafae422134cd33",
+    "token0": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+    "token1": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+    "fee": 65, 
+    "ampBoost": 2, 
+    "apy": 1000,
+    "stable": false,
+    "payoutToken": "0xa995ad25ce5eb76972ab356168f5e1d9257e4d05"
+  },
+  "0xa5bfd75f4693f8358a38f3d63cc4b9cceedb61cb": {
+    "pair": "0x7c21e2e777cecaf969bf7b7aef0e3bf23d043672",
+    "id": "0xa5bfd75f4693f8358a38f3d63cc4b9cceedb61cb",
+    "token0": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+    "token1": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011",
+    "fee": 65,
+    "ampBoost": 2, 
+    "apy": 1000, 
+    "stable": false,
+    "payoutToken": "0xa995ad25ce5eb76972ab356168f5e1d9257e4d05"
+  },
+  "0x7ab201850808c19E882876d8DF573bA07488a72e": {
+    "pair": "0x9d2811B85c1d736427722817B69e4D1E98016BB0",
+    "id": "0x7ab201850808c19E882876d8DF573bA07488a72e",
+    "token0": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+    "token1": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+    "fee": 33, 
+    "ampBoost": 2,
+    "apy": 500,
+    "stable": true,
+    "payoutToken": "0xa995ad25ce5eb76972ab356168f5e1d9257e4d05"
+  },
+  "0x359da4b89d09f70c4db49be44aabd9cda176f9a0": {
+    "pair": "0x33EC51BEc17A25A7Bea04BCD600Cc805142efDeD",
+    "id": "0x359da4b89d09f70c4db49be44aabd9cda176f9a0",
+    "token0": "0x244c238325fc1bdf6eded726ee1b47d55895d944",
+    "token1": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+    "fee": 25, 
+    "ampBoost": 2,
+    "apy": 5000, 
+    "stable": false,
+    "payoutToken": "0x244c238325fc1bdf6eded726ee1b47d55895d944"
+  },
+  "0xf1a088c5b364088cf88551b0bf2453651faf4029": {
+    "pair": "0xd5a69D2bD59ae04EA931B4e2bD30aED6A412Ce10",
+    "id": "0xf1a088c5b364088cf88551b0bf2453651faf4029",
+    "token0": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+    "token1": "0xed4040fd47629e7c8fbb7da76bb50b3e7695f0f2",
+    "fee": 50, 
+    "ampBoost": 2, 
+    "apy": 2000,
+    "stable": false,
+    "payoutToken": "0xed4040fd47629e7c8fbb7da76bb50b3e7695f0f2"
+  }
+}
