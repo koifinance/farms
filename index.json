@@ -53,5 +53,16 @@
     "apy": 2000,
     "stable": false,
     "payoutToken": "0xed4040fd47629e7c8fbb7da76bb50b3e7695f0f2"
+  },
+  "0xe6fe6e2395028d9b9f1f3c49e5b32daf670606bc": {
+    "pair": "0x19fC0949730bBf1466C3a1718E3CaEFF15C64eda",
+    "id": "0xe6fe6e2395028d9b9f1f3c49e5b32daf670606bc",
+    "token0": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+    "token1": "0xBD4372e44c5eE654dd838304006E1f0f69983154",
+    "fee": 25,
+    "ampBoost": 1.5,
+    "apy": 2100,
+    "stable": false,
+    "payoutToken": "0xBD4372e44c5eE654dd838304006E1f0f69983154"
   }
 }
